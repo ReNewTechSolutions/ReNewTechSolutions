@@ -19,7 +19,7 @@
 
 ---
 
-## ✨ About the Studio
+## About the Studio
 
 RenewTech Solutions is a **small, independent technology studio** building thoughtful digital products at the intersection of **engineering, design, and AI**.
 
@@ -32,34 +32,34 @@ Our work spans client collaborations, internal tools, educational platforms, and
 
 ---
 
-## 🧠 What We Build
+## What We Build
 
-### 🌐 Web & Platform Engineering
+### Web & Platform Engineering
 - Full-stack web apps (React, Vite, Supabase, Node)
 - Secure portals, dashboards, and admin systems
 - Serverless APIs and auth-driven architectures
 
-### 📊 Interactive Tools & Calculators
+### Interactive Tools & Calculators
 - ROI and pricing calculators
 - Dynamic charts, sliders, dials, and visualizations
 - Webflow-embedded tools with custom JS logic
 
-### 🎨 UI/UX & Frontend Systems
+### UI/UX & Frontend Systems
 - Glassmorphic, modern, and futuristic UI
 - Design-to-code workflows (Figma → production)
 - Motion, micro-interactions, and Lottie animation
 
-### 🤖 AI & Automation
+### AI & Automation
 - AI-assisted workflows and data tools
 - Educational AI systems
 - Automation scripts and internal tooling
 
-### 📚 Education & Digital Products
+### Education & Digital Products
 - STEM/STEAM curriculum and labs
 - Teacher-friendly digital + printable resources
 - Learning portals and training platforms
 
-### 🧪 Experimental R&D
+### Experimental R&D
 - Visualization experiments
 - Systems analysis and sandbox tooling
 - Proof-of-concept builds and internal labs
@@ -89,7 +89,7 @@ Some projects are production-ready. Others are works-in-progress or internal exp
 
 ---
 
-## 📁 Typical Repo Structure
+## Typical Repo Structure
 
 ```txt
 /project-name
@@ -104,4 +104,3 @@ Some projects are production-ready. Others are works-in-progress or internal exp
 │── README.md
 │── package.json
 │── vite.config.js
-
