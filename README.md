@@ -1,97 +1,107 @@
-![Innovation](https://img.shields.io/badge/Innovation-Driven-blueviolet.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Growing-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-April%202025-blue.svg)
+<p align="center">
+  <img src="assets/banner.png" alt="RenewTech Solutions banner" />
+</p>
 
-# ✨ ReNewTech Solutions
+<h1 align="center">RenewTech Solutions</h1>
 
----
+<p align="center">
+  <strong>Quietly building intelligent tools, polished interfaces, and scalable digital products.</strong><br/>
+  <sub>Indie studio • engineering + design + AI • prototypes that grow into systems</sub>
+</p>
 
-## 📌 Who We Are
-
-**ReNewTech Solutions** is a modern tech services company, empowering businesses through:
-
-- Custom AI & Machine Learning Solutions
-- Digital Marketing Strategy
-- Business Automation & CRM Setup
-- Full-Stack Website Builds
-- Educational Services & AI Workshops
-- Industrial Automation & Smart Tech Integration (Coming Soon)
-
-We bridge innovation with practical application — helping startups, small businesses, and enterprises alike transform their operations and growth potential.
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/status-active-success" />
+  <img alt="Studio" src="https://img.shields.io/badge/studio-indie--tech-blueviolet" />
+  <img alt="Focus" src="https://img.shields.io/badge/focus-ai%20%7C%20ux%20%7C%20engineering-informational" />
+  <img alt="Stack" src="https://img.shields.io/badge/stack-react%20%7C%20vite%20%7C%20supabase-111111" />
+  <img alt="Deploy" src="https://img.shields.io/badge/deploy-vercel%20%7C%20webflow-black" />
+</p>
 
 ---
 
-## 🛠 Core Services
+## ✨ About the Studio
 
-### AI & Data Solutions
-![Custom AI](https://img.shields.io/badge/Custom%20AI-Workflows-blueviolet)
-![Predictive AI](https://img.shields.io/badge/Predictive-Analytics-lightblue)
-![LLM Tuning](https://img.shields.io/badge/LLM-Fine%20Tuning-brightgreen)
-![Gen AI Tools](https://img.shields.io/badge/Generative-AI%20Content-orange)
+RenewTech Solutions is a **small, independent technology studio** building thoughtful digital products at the intersection of **engineering, design, and AI**.
 
-- AI Chatbots (LangChain, RAG Systems)
-- Predictive Analytics & Forecasting
-- Fine-tuning Large Language Models (LLMs)
-- Generative AI Content Tools for Business Growth
+We don’t chase scale for its own sake. We design systems that:
+- Start lean and intentional  
+- Feel polished and human  
+- Scale naturally into products, platforms, or ecosystems  
+
+Our work spans client collaborations, internal tools, educational platforms, and experimental builds—each treated as a long-term asset, not a throwaway project.
 
 ---
 
-### Website & Digital Services
-![Web Dev](https://img.shields.io/badge/Web%20Development-Custom%20Design-blue)
-![SEO Services](https://img.shields.io/badge/SEO-Optimization-brightgreen)
-![Paid Ads](https://img.shields.io/badge/Paid%20Ads-Strategic%20Growth-yellow)
-![UX/UI](https://img.shields.io/badge/UI%2FUX-Smart%20Design-orange)
+## 🧠 What We Build
 
-- Full Website Builds (Webflow, WordPress, Custom)
-- SEO Strategy & Organic Content Marketing
-- Paid Digital Advertising Campaigns
-- UI/UX Web & Mobile Optimization
+### 🌐 Web & Platform Engineering
+- Full-stack web apps (React, Vite, Supabase, Node)
+- Secure portals, dashboards, and admin systems
+- Serverless APIs and auth-driven architectures
 
----
+### 📊 Interactive Tools & Calculators
+- ROI and pricing calculators
+- Dynamic charts, sliders, dials, and visualizations
+- Webflow-embedded tools with custom JS logic
 
-### Automation & CRM Systems
-![Zapier Workflows](https://img.shields.io/badge/Zapier-Automation-lightgrey)
-![CRM Dashboards](https://img.shields.io/badge/CRM-Dashboards-blueviolet)
-![Maintenance](https://img.shields.io/badge/Tech%20Support-Ongoing-green)
+### 🎨 UI/UX & Frontend Systems
+- Glassmorphic, modern, and futuristic UI
+- Design-to-code workflows (Figma → production)
+- Motion, micro-interactions, and Lottie animation
 
-- Zapier & Airtable Automation
-- Client Portal & CRM Creation
-- Ongoing Tech Health Checkups & Maintenance
+### 🤖 AI & Automation
+- AI-assisted workflows and data tools
+- Educational AI systems
+- Automation scripts and internal tooling
 
----
+### 📚 Education & Digital Products
+- STEM/STEAM curriculum and labs
+- Teacher-friendly digital + printable resources
+- Learning portals and training platforms
 
-### Specialized Future Offerings (2025 Launch)
-![Industrial IoT](https://img.shields.io/badge/Industrial-IoT%20Solutions-darkblue)
-![Smart Tech](https://img.shields.io/badge/Smart%20Home-Automations-lightblue)
-![Factory Automation](https://img.shields.io/badge/Factory-Tech%20Upgrades-brightgreen)
-
-- Industrial Coding & Printer Solutions
-- Electronics Repair & Tech Sales
-- Smart Home & IoT Business Integrations
-- Factory Line Automation Solutions
+### 🧪 Experimental R&D
+- Visualization experiments
+- Systems analysis and sandbox tooling
+- Proof-of-concept builds and internal labs
 
 ---
 
-## 📈 Our Recent Projects
+## 🌱 The RenewTech Ecosystem
 
-- **Fuel Consumption Prediction (ML Model)**
-- **Credit Card Fraud Detection (Classification)**
-- **KNN Telecom Customer Segmentation (Data Science Pipeline)**
-- **ReNewTech Startup Package** (Reusable Python Startup Framework)
+RenewTech is not a single product—it’s a **connected ecosystem** of tools, platforms, and experiments that reinforce one another.
 
-> View all live projects here: [GitHub Portfolio](https://github.com/ReNewTechSolutions)
+- **Interactive ROI & Decision Tools**  
+  Visual calculators, dashboards, and pricing models designed for clarity and conversion
+
+- **Client Portals & Training Platforms**  
+  Secure onboarding, learning, and admin systems built to grow with organizations
+
+- **Education & STEM Products**  
+  NGSS-aligned labs, digital resources, and learning experiences
+
+- **Design Systems & UI Kits**  
+  Reusable components, animation patterns, and layout systems
+
+- **Experimental Labs**  
+  R&D projects, visualization experiments, and exploratory engineering
+
+Some projects are production-ready. Others are works-in-progress or internal explorations. All are built with intent.
 
 ---
 
-## 📨 Connect With Us
+## 📁 Typical Repo Structure
 
-**📧 Email:** info@renewt3ch.com  
-**💌 Website:** [renewt3ch.com](https://renewt3ch.com)
-
----
-
-## 🔗 Official Tagline
-
-**"Smart Technology for Real-World Success — ReNewTech Solutions 2025"**
+```txt
+/project-name
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   └── utils/
+│── public/
+│── assets/
+│── scripts/
+│── README.md
+│── package.json
+│── vite.config.js
 
