@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="RenewTech Solutions banner" />
+  <img src="banner.png" alt="RenewTech Solutions" />
 </p>
 
 <h1 align="center">RenewTech Solutions</h1>
