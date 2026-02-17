@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="renewtechsolutions.png" alt="RenewTech Solutions" width="900"/>
+  <img src="https://raw.githubusercontent.com/ReNewTechSolutions/ReNewTechSolutions/main/renewtechsolutions.png" alt="RenewTech Solutions" width="900"/>
 </p>
 
 <h1 align="center">RenewTech Solutions</h1>
