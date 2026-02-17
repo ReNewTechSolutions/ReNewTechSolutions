@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="renewtechso<img width="1536" height="1024" alt="renewtechsolutions" src="https://github.com/user-attachments/assets/d502cfb3-d922-43a6-aac7-5fafee901da6" />
-lutions.png" alt="RenewTech Solutions" />
+  <img src="renewtechsolutions.png" alt="RenewTech Solutions" width="900"/>
 </p>
 
 <h1 align="center">RenewTech Solutions</h1>
@@ -25,6 +24,7 @@ lutions.png" alt="RenewTech Solutions" />
 RenewTech Solutions is a **small, independent technology studio** building thoughtful digital products at the intersection of **engineering, design, and AI**.
 
 We don’t chase scale for its own sake. We design systems that:
+
 - Start lean and intentional  
 - Feel polished and human  
 - Scale naturally into products, platforms, or ecosystems  
@@ -67,9 +67,9 @@ Our work spans client collaborations, internal tools, educational platforms, and
 
 ---
 
-## 🌱 The RenewTech Ecosystem
+## The RenewTech Ecosystem
 
-RenewTech is not a single product—it’s a **connected ecosystem** of tools, platforms, and experiments that reinforce one another.
+RenewTech is not a single product — it’s a **connected ecosystem** of tools, platforms, and experiments that reinforce one another.
 
 - **Interactive ROI & Decision Tools**  
   Visual calculators, dashboards, and pricing models designed for clarity and conversion
